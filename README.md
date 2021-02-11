@@ -9,7 +9,6 @@ You project tree will most likely look like this:
 ``` 
 Employment
 ├─ employment_parser.ipynb
-├─ README.md
 └─ Resources
    ├─ Cleaned_BLS_Employment_Categories.csv
    └─ occupation.xlsx
