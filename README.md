@@ -14,7 +14,7 @@ Employment
    └─ occupation.xlsx
 ```
 
-The final output (and most likely what you need) is the `Cleaned_BLS_Employment_Categories.csv` file in the **Resources** folder.
+The final output (and most likely what you need) is the `Cleaned_BLS_Employment_Categories.csv` file in the **Employment/Resources** folder.
 
 *Optional*:  
 See the `employment_parser.ipynb` for informative notebook on how this was created.  
